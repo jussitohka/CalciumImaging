@@ -1,5 +1,5 @@
 # CalciumImaging
-This repository contains Matlab research code to reproduce the analysis in 
+This repository contains Matlab research code to reproduce the data analysis in fluorescence imaging experiments of  
 Tiihonen et al. Neurobiological origins of schizophrenia, 2018.  
 
 The code has been licenced under MIT licence (see LICENCE). It is made available for the purpose of documenting the analysis in the paper. It is a stripped version of more general code written for the analysis and quantification of fluorescent traces to be made available at some point. 
